@@ -1,0 +1,35 @@
+$orange:orange;
+$purple:purple;
+.mainpage {
+    display: column;
+    text-align: center;
+    ul li{ 
+        list-style-type: none;
+    }
+    #color { 
+        color:$orange;
+    }
+    .display { 
+        display: flex;
+    }
+    a { 
+        margin: 5px;
+    }
+    h1 { 
+        color: $purple;
+    }   
+}
+
+.products  {
+    display: column;
+    text-align: center;
+    img { 
+        width: 400px;
+        height: auto;
+    }
+}
+.iletisim{
+    h3 { 
+        color: $orange;
+    }
+}

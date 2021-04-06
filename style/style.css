@@ -1,0 +1,41 @@
+.mainpage {
+  display: column;
+  text-align: center;
+}
+
+.mainpage ul li {
+  list-style-type: none;
+}
+
+.mainpage #color {
+  color: orange;
+}
+
+.mainpage .display {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.mainpage a {
+  margin: 5px;
+}
+
+.mainpage h1 {
+  color: purple;
+}
+
+.products {
+  display: column;
+  text-align: center;
+}
+
+.products img {
+  width: 400px;
+  height: auto;
+}
+
+.iletisim h3 {
+  color: orange;
+}
+/*# sourceMappingURL=style.css.map */
